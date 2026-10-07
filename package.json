@@ -1,0 +1,25 @@
+{
+  "name": "project-demo",
+  "version": "1.0.0",
+  "description": "Demo project Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdhureddy/node-project-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mdhureddy/node-project-demo/issues"
+  },
+  "homepage": "https://github.com/mdhureddy/node-project-demo#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
